@@ -19,8 +19,8 @@ USERNAME = ''
 PASSWORD = '' 
 
 # these constants must be set for notification authentication (via api.pushover.net)
-user_key = 'ut9ytxbombk8as7ze2k8p1nhpt1b6m'
-api_key = 'anq7jacdsi6wivyizb1uvs2mnxwt4v' 
+user_key = ''
+api_key = '' 
 
 #given a string, this method sends that string to your phone in the form of a notification 
 #(presuming you have already connected the app and have correct constants for user_key and api_key)
