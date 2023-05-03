@@ -15,8 +15,8 @@ CERTS = '/etc/ssl/certs/ca-certificates.crt'
 BROKER = 'iot.cs.calvin.edu'
 
 # these constants must be set for broker authentication
-USERNAME = 'cs326'   
-PASSWORD = 'piot' 
+USERNAME = ''   
+PASSWORD = '' 
 
 # these constants must be set for notification authentication (via api.pushover.net)
 user_key = 'ut9ytxbombk8as7ze2k8p1nhpt1b6m'
