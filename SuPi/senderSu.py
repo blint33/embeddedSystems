@@ -10,8 +10,8 @@ CERTS = '/etc/ssl/certs/ca-certificates.crt'
 BROKER = 'iot.cs.calvin.edu'
 
 # Note: these constants must be set for broker authentication
-USERNAME = 'cs326'   # broker authentication username
-PASSWORD = 'piot'   # broker authentication password
+USERNAME = ''   # broker authentication username
+PASSWORD = ''   # broker authentication password
 
 #prints to terminal whenever MQTT publishes
 def on_publish(client, userdata, mid):
